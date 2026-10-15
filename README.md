@@ -9,9 +9,7 @@ From there, you'd do well to run it from the terminal, giving it your target fol
 
 ```python organizer.py "C:\example\folder"``` 
 
-for Windows 
-
-and
+for Windows and
 
 ```python3 organizer.py /home/example/folder```
 
