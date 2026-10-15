@@ -5,7 +5,7 @@ It can be installed with the command:
 
 ```pip install watchdog```
 
-From there, you'd do well to run it from the terminal, giving it your target folder as the argument to sys.argv[1] (basically, the argument that comes after python or python3). For example, you'd write:
+From there, you'd do well to run it from the terminal, giving it your target folder as the argument to sys.argv[1] (basically, the argument that comes after the python script itself). For example, you'd write:
 
 ```python organizer.py "C:\example\folder"``` 
 
