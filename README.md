@@ -8,8 +8,13 @@ It can be installed with the command:
 From there, you'd do well to run it from the terminal, giving it your target folder as the argument to sys.argv[1] (basically, the argument that comes after python or python3). For example, you'd write:
 
 ```python organizer.py "C:\example\folder"``` 
-for Windows and
+
+for Windows 
+
+and
+
 ```python3 organizer.py /home/example/folder```
+
 for MacOs and Linux
 
 If you don't do that, however, don't fear! The script will default to a simple input prompt (if you don't want to run it from the terminal). Just provide it the folder you want to watch, and it will
